@@ -1,6 +1,6 @@
 # licenseplatenumber
 
-> 手机端车牌号码键盘的react组件
+> 手机端车牌号码键盘的vue组件
 
 ## Build Setup
 
