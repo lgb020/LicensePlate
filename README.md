@@ -1,6 +1,6 @@
 # licenseplatenumber
 
-> A Vue.js project
+> 车牌组件
 
 ## Build Setup
 
