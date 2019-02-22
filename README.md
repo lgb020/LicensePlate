@@ -1,6 +1,6 @@
 # licenseplatenumber
 
-> 车牌组件
+> 手机端车牌号码键盘的react组件
 
 ## Build Setup
 
